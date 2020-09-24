@@ -3,15 +3,15 @@
 
 Library yang akan memberika data palsu untuk kepentingan development
 
-##Instalation
+## Instalation
 
-##Cara Pengunaan
+## Cara Pengunaan
 
-##Cara Kontribusi
+## Cara Kontribusi
 
-##TODO
+## TODO
 
--[x] Memberi README
--[ ] Memberi Licensi
--[ ] Membuat function name generate
--[ ] Membuat function random name
+- [x] Memberi README
+- [ ] Memberi Licensi
+- [ ] Membuat function name generate
+- [ ] Membuat function random name
