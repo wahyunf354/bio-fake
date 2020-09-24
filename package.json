@@ -1,0 +1,17 @@
+{
+  "name": "bio-fake",
+  "version": "1.0.0",
+  "description": "library ini akan memberikan anda data yang anda perlukan untuk membuat sebuah data palsu dari seseorang",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "seder",
+    "faker",
+    "palsu",
+    "bio"
+  ],
+  "author": "Wahyu Nur Fadillah",
+  "license": "MIT"
+}
