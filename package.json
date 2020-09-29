@@ -4,17 +4,12 @@
   "description": "library ini akan memberikan anda data yang anda perlukan untuk membuat sebuah data palsu dari seseorang",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "lint": "eslint src/*.js",
     "lint:fix": "eslint src/*.js --fix",
     "format": "prettier src/*.js --write"
   },
-  "keywords": [
-    "seder",
-    "faker",
-    "palsu",
-    "bio"
-  ],
+  "keywords": ["seder", "faker", "palsu", "bio"],
   "author": "Wahyu Nur Fadillah",
   "license": "MIT",
   "dependencies": {
@@ -22,6 +17,7 @@
   },
   "devDependencies": {
     "eslint": "^7.10.0",
+    "jest": "^26.4.2",
     "prettier": "^2.1.2"
   }
 }
